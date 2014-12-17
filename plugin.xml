@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 
-<plugin xmlns="http://apache.org/cordova/ns/plugins/1.0" xmlns:android="http://schemas.android.com/apk/res/android" id="com.butterflyeffect.GPSDetector" version="0.0.1">
+<plugin xmlns="http://apache.org/cordova/ns/plugins/1.0" 
+       xmlns:android="http://schemas.android.com/apk/res/android" 
+       id="com.uc.kk.GPSDetector" version="0.0.1">
     <name>GPSDetector</name>
     <description>Is the device GPS hardware on or off?</description>
     <author>Bastien L</author>
