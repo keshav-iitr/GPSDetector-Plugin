@@ -30,5 +30,7 @@ public class GPSDetector extends CordovaPlugin {
         callbackContext.sendPluginResult(result);
         
         return true;
+
+		                                      
     }
 }
