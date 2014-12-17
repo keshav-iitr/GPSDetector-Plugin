@@ -5,13 +5,13 @@
        id="com.uc.kk.GPSDetector" version="0.0.1">
     <name>GPSDetector</name>
     <description>Is the device GPS hardware on or off?</description>
-    <author>Bastien L</author>
+    <author>Keshav</author>
 
     <engines>
         <engine name="cordova" version=">=2.9" />
     </engines>
 
-    <js-module src="GPSDetector.js" name="GPSDetector">
+    <js-module src="www/GPSDetector.js" name="GPSDetector">
         <clobbers target="window.GPSDetector" />
     </js-module>
 
